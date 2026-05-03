@@ -6,7 +6,7 @@
 >
 > #### :rocket: LINK TO DOCUMENTATION ON GITHUB
 >
-> ### :point\_right: [OPEN RAMSim DEVELOPMENT DOCUMENTATION ON GITHUB](/broken/pages/ihkr0De0r96yk6TbZLp6) :point\_left:
+> ### :point\_right: [OPEN RAMSim DEVELOPMENT DOCUMENTATION ON GITHUB](https://github.com/flu55ball/RAM_SIM/tree/main) :point\_left:
 >
 > Project breakdown, Unity setup, interaction setup, scripts, puzzle logic, user testing, feedback changes, future improvements, and final reflection.
 >
