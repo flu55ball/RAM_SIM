@@ -14,7 +14,7 @@
 >
 > #### :video\_game: PLAYER INSTRUCTIONS
 >
-> ### :point\_right: [OPEN RAMSim PLAYER INSTRUCTIONS](https://drive.google.com/file/d/1Z-IYGBA_kUadek652xmqTZt3ulfJvE8O/view) :point\_left:
+> ### :point\_right: [OPEN RAMSim PLAYER INSTRUCTIONS](https://drive.google.com/file/d/1gt8ZDpM0XtkfUbFJlrqWVLyyh0QdNQqA/view?usp=sharing) :point\_left:
 >
 > Player-facing guide covering the goal, controls, RAM setup hints, POST lights, and how to play the VR puzzle.
 >
